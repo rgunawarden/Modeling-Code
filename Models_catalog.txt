@@ -1,0 +1,10 @@
+Models
+
+411
+
+Money Ball baseball (SAS)- (Linear regression SAS)Determine which team will win the most games in a season based on historical information past teams.
+Autoinsurance (SAS) - Predict (logistic regression)if a person will have an accident and determine the cost (linear Regression) to an insurance company
+if they did crash their car.
+WineSales (SAS) - Predicting (SAS - Poisson regression types poisson, negative binomial, Zero Inflated Poisson, or Zero Inflated Negative Binomial )the number of cases of
+ wine sold by distributors based on the sales of wine.
+Abalone (SAS) - Predict (Poisson regression) the number of rings around sea mollusks based on attributes and environmental conditions.
